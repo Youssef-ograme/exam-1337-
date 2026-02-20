@@ -227,4 +227,5 @@ int main ()
 { 
     char str[] = "-60 -700 -90";
     printf ("%s",orderWeight(str));
+    // output : -60 -90 -7000
 }
